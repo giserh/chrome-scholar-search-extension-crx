@@ -1,0 +1,1 @@
+This repo contains the Chrome CRX packages for the Google Scholar Search Extension. See [this repo](https://github.com/lintool/chrome-scholar-search-extension) for the source code and installation instructions.
